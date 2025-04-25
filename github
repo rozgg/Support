@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Thanks for Supporting!</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      font-size: 20px;
+      margin: 20px;
+    }
+    a {
+      background-color: #007bff;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+    }
+    a:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Thanks for supporting!</h1>
+  <p>Wanna Continue Supporting?</p>
+  <a href="https://your-second-linkvertise-link-here.com">Click here</a>
+</body>
+</html>
